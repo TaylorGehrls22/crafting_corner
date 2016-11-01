@@ -12,7 +12,7 @@
 
       <!-- Title on nav bar -->
       <a class="navbar-left"><img src="img/CraftingCorner.png" alt="Main Graphic" width="50"></a>
-      <a class="navbar-brand" href="index.html">Suzie's Crafting Corner</a>
+      <a class="navbar-brand" href="index.php">Suzie's Crafting Corner</a>
     </div>
 
     <div id="navbar" class="collapse navbar-collapse">

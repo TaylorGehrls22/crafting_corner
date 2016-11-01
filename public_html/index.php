@@ -47,7 +47,7 @@
                 It takes a special kind of person to craft. Whether you're stocking up to make your own clothing during the zombie apocalypse or just want to make pipe cleaner headsets, Crafting Corner is the place for you!
                 </p>
                 <p>
-                  <a class="btn btn-lg btn-info" href="shop.html" role="button">Shop</a>
+                  <a class="btn btn-lg btn-info" href="shop.php" role="button">Shop</a>
                 </p>
             </div>
 
@@ -95,7 +95,7 @@
                     </div>
                     <hr>
                     <div style="text-align: center;">
-                      <a class="btn btn-lg btn-info" href="shop.html" role="button">Buy Sewing8000</a>
+                      <a class="btn btn-lg btn-info" href="shop.php" role="button">Buy Sewing8000</a>
                     </div>
                 </div>
 
